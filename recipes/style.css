@@ -1,0 +1,17 @@
+
+.main{
+    border: 5px solid black;
+    width: 90vw;
+    height: 90vh;
+    margin: auto;
+    overflow: scroll;
+    padding: 1vw;
+}
+h1,h2,h3{
+    text-align: center;
+}
+img{
+    display: block;
+     margin: 0 auto;
+
+}
