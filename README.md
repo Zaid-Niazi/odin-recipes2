@@ -1,3 +1,3 @@
 Recipes Database 
 <br>
-View here - https://vazcon.github.io/odin-recipes2/
+View here - https://zaid-niazi.github.io/odin-recipes2/
